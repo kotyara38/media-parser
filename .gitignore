@@ -1,0 +1,4 @@
+.venv/
+.idea/
+.env
+api/freesound_oauth.py
